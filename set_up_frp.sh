@@ -1,4 +1,7 @@
 #/bin/bash
+cd
+whoami
+pwd
 export TERM=linux
 export DEBIAN_FRONTEND=noninteractive
 DEBIAN_FRONTEND=noninteractive
